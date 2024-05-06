@@ -1,0 +1,77 @@
+ body {
+            font-size: medium;
+            margin: 0;
+            padding: 0;
+            background-color:whitesmoke;
+            
+        }
+        
+        main {
+            max-width: 800px;
+            margin: 20px auto;
+            background-color: white;
+            padding: 20px;
+        }
+
+        h1 {
+            color:black;;
+            margin-bottom: 10px;
+        }
+
+        h2 {
+            border-top: 2px solid #333;
+            padding-bottom: 5px;
+            margin-top: 20px;
+            color: black;
+        
+        }
+
+        p {
+            line-height: 1.6;
+            margin-top: 20px;
+        
+               
+        }
+
+        ul {
+            list-style-type: disc;;
+            padding: 0;
+            
+            
+        }
+
+        li {
+            margin-bottom: 5px;
+            
+            
+        }
+
+        .skills {
+            margin-top: 20px;
+            margin-left: 20px;
+            
+            
+            
+        }
+
+        .contact-info {
+            margin-top: 20px;
+            
+            
+        }
+         .declaration{
+            margin-right: 40px;
+         }
+         h{
+            margin-left: 600px;
+         }
+        
+         
+        #a{
+          margin-left: 45px;
+        }
+    
+
+        
+        
+    
